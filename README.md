@@ -1,3 +1,2 @@
-need python 3
-pip install random
+sudo pip install random
 
